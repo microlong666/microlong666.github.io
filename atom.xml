@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>hexo</title>
+  <title>MicroLOONG</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://microlong666.github.io/"/>
   <updated>2020-02-26T08:39:01.421Z</updated>
-  <id>http://yoursite.com/</id>
-  
-  <author>
-    <name>John Doe</name>
-    
-  </author>
+  <id>https://microlong666.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/02/26/hello-world/"/>
-    <id>http://yoursite.com/2020/02/26/hello-world/</id>
+    <link href="https://microlong666.github.io/2020/02/26/hello-world/"/>
+    <id>https://microlong666.github.io/2020/02/26/hello-world/</id>
     <published>2020-02-26T08:39:01.421Z</published>
     <updated>2020-02-26T08:39:01.421Z</updated>
     
