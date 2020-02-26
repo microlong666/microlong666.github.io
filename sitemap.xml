@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://microlong666.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-02-26T09:58:27.377Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://microlong666.github.io/repository/index.html</loc>
     
     <lastmod>2020-02-26T09:58:27.374Z</lastmod>
@@ -12,6 +19,34 @@
     <loc>https://microlong666.github.io/links/index.html</loc>
     
     <lastmod>2020-02-26T09:58:27.372Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://microlong666.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-02-26T09:58:27.371Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://microlong666.github.io/books/index.html</loc>
+    
+    <lastmod>2020-02-26T09:58:27.369Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://microlong666.github.io/about/index.html</loc>
+    
+    <lastmod>2020-02-26T09:58:27.368Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://microlong666.github.io/404.html</loc>
+    
+    <lastmod>2020-02-26T09:58:27.364Z</lastmod>
     
   </url>
   
