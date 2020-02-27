@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://microlong666.github.io/2020/02/27/hexo-builds-a-personal-blog-and-deploys-to-github/</loc>
+    
+    <lastmod>2020-02-27T07:04:44.627Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://microlong666.github.io/about/index.html</loc>
     
     <lastmod>2020-02-26T15:38:05.879Z</lastmod>
