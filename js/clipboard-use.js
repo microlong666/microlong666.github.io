@@ -1,3 +1,3 @@
-// build time:Fri Feb 28 2020 16:43:33 GMT+0800 (中国标准时间)
-!function(n,t,o){var a=function(){var n="";n+='<button class="btn-copy" data-clipboard-snippet="">';n+='  <i class="fa fa-clipboard"></i><span>copy</span>';n+="</button>";$(".highlight .code pre").before(n);new ClipboardJS(".btn-copy",{target:function(n){return n.nextElementSibling}})};a()}(window,document);
+// build time:Fri Feb 28 2020 16:54:04 GMT+0800 (中国标准时间)
+function copy_code(){$(".highlight").each(function(t,e){var n=$("<div>").addClass("highlight-wrap");$(e).after(n);n.append($("<button>").addClass("copy-btn").append("����").on("click",function(t){var e=$(this).parent().find(".code").find(".line").map(function(t,e){return $(e).text()}).toArray().join("\n");var n=document.createElement("textarea");document.body.appendChild(n);n.style.position="absolute";n.style.top="0px";n.style.left="0px";n.value=e;n.select();n.focus();var o=document.execCommand("copy");document.body.removeChild(n);if(o)$(this).text("���Ƴɹ�");else $(this).text("����ʧ��");$(this).blur()})).on("mouseleave",function(t){var e=$(this).find(".copy-btn");setTimeout(function(){e.text("����")},300)}).append(e)})}
 //rebuild by neat 
